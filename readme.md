@@ -107,7 +107,7 @@ The Busy Tag device will display the current event and the upcoming event with r
 
 Sample:
 
-<img src="/event_sample_image.png" alt="Current Event Sample Image" width="300" height="390"/>
+<img src="/event_sample_image.png" alt="Current Event Sample Image" width="230" height="300"/>
 
 ### Troubleshooting
 
