@@ -99,8 +99,9 @@ Calendar tracking started
 Updates every 20 seconds
 To stop and exit press ctrl+c
 
-Fetched 1 events:
-Event: Christmas Event at 08:00 - 08:30, 2024-12-24
+Fetched 2 events:
+Event: Green Event For Testing at 12:00 - 13:00, 2024-11-06
+Event: Plum Color Event at 16:00 - 16:30, 2024-11-06
 ```
 The Busy Tag device will display the current event and the upcoming event with relevant information like event name and start time.
 
